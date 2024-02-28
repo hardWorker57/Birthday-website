@@ -28,8 +28,9 @@ body {
   color: #103362;
 }
 .text .wishes {
-  font-size: 3em;
+  font-size: 1.8em;
   color: #103362;
+  text-align: center;
 }
 .text .from {
   font-size: 2em;
